@@ -16,7 +16,7 @@ We are tasked with predicting whether a pair of questions are duplicates or not.
 
 *Performance Metric : Log Loss and Binary Confusion Matrix*
 
-*Train and Test Construction : We build train and test by randomly splitting in the ratio of 70:30 or 80:20 whatever we choose as we have sufficient points to work with.*
+*Train and Test Construction : We build train and test data set by randomly splitting in the ratio of 70:30*
 
 ***Conclusion :***
 >*Implementing Logistic Regression on Feature Engineered Data Set, after appropriatly tuning the Hyper-Parameters, we are able to get log loss on Test Data as* ***0.4315***
